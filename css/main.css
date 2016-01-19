@@ -1,0 +1,16 @@
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+margin: 0;
+}
+#mainleft {
+  background-color: #ccc;
+  float: left;
+  padding: 5px;
+  width: 200px;
+}
+#mainright {
+  margin-left: 210px;
+  padding: 5px;
+}
+.hr { border: 0; height: 1px; background:url(/img/hr.gif); padding: 0; margin: 8px 0; color: transparent; }
+.hr hr { display: none; }
